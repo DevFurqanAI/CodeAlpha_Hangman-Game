@@ -103,7 +103,7 @@ game = Hangman(words, max_attempts=8)
 
 ---
 
-##🧪 Sample Word List (Default)
+## 🧪 Sample Word List (Default)
 ```bash
 words = ["Python", "Hangman", "Programming", "OOP", "Student"]
 ```
